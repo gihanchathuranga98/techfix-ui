@@ -1,4 +1,4 @@
-name: Build Demo Docker Image | Techvision
+name: techfix-ui build
 
 on:
   push:
